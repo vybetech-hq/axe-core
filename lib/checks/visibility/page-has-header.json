@@ -1,0 +1,11 @@
+{
+  "id": "page-has-header",
+  "evaluate": "page-has-header-evaluate",
+  "metadata": {
+    "messages": {
+      "pass": "",
+      "fail": "",
+      "incomplete": ""
+    }
+  }
+}

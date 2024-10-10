@@ -337,6 +337,10 @@
       "description": "Ensure bold, italic text and font-size is not used to style <p> elements as a heading",
       "help": "Styled <p> elements must not be used as headings"
     },
+    "page-has-header": {
+      "description": "Ensure every page has a h1 element",
+      "help": "Every page must have a h1 element"
+    },
     "page-has-heading-one": {
       "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
       "help": "Page should contain a level-one heading"
@@ -1109,6 +1113,11 @@
       "pass": "All content on the page has been analyzed.",
       "fail": "There were problems analyzing the content on this page.",
       "incomplete": "There is hidden content on the page that was not analyzed. You will need to trigger the display of this content in order to analyze it."
+    },
+    "page-has-header": {
+      "pass": "",
+      "fail": "",
+      "incomplete": ""
     }
   },
   "failureSummaries": {

@@ -1,0 +1,6 @@
+{
+  "description": "page-has-header tests",
+  "rule": "page-has-header",
+  "violations": [],
+  "passes": []
+}

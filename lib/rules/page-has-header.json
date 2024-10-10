@@ -1,0 +1,15 @@
+{
+  "id": "page-has-header",
+  "impact": "serious",
+  "selector": "*",
+  "matches": "",
+  "tags": ["cat.semantics", "wcag2a", "wcag412"],
+  "metadata": {
+    "description": "Ensure every page has a h1 element",
+    "help": "Every page must have a h1 element"
+  },
+  "preload": false,
+  "all": [],
+  "any": ["page-has-header"],
+  "none": []
+}
